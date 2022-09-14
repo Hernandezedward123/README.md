@@ -1,4 +1,4 @@
-# CIT 114: Intro to Cloud Computing with DevOps Noes 4
+# CIT 114: Intro to Cloud Computing with DevOps Notes 4
 ## 1) Cyber Security Overview
 - Demanding Areas and In-demand areas of IT
 - Poor Security
